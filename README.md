@@ -1,2 +1,2 @@
 # mwehe
-developer:azril
+developer
